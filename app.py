@@ -1,3 +1,4 @@
+# KR2: Серов
 import os
 import socket
 
